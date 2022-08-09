@@ -3,5 +3,6 @@ def addition(l):
     print("Received list", l)
     return sum(l)
 
-def multiply(x,y):
+
+def multiply(x, y):
     return x*y
